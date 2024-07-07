@@ -1,4 +1,4 @@
-# Chat Application
+# Connectly
 
 This project implements a simple chat application using Java sockets. It consists of a server (`Server.java`) that manages client connections and a client (`Client.java`) that connects to the server to send and receive messages.
 
